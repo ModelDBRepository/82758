@@ -1,3 +1,5 @@
+This is the README.md for the turbobasic program associated with the publications:
+
 # SA-NODE ACTION POTENTIAL
 BY FREDRIK ELINDER, LINKÖPINGS UNIVERSITET
 
